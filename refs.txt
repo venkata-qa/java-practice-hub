@@ -26,5 +26,25 @@ https://magnitia.com/blog/top-20-core-java-interview-questions-answers-for-selen
 
 https://www.interviewbit.com/java-interview-questions/
 
+https://www.softwaretestingmaterial.com/java-interview-questions/
+
+OOPS Concepts
+https://www.softwaretestingmaterial.com/oops-concept-in-automation-framework/
+
+https://bismabhundi.medium.com/from-code-to-quality-applying-oop-principles-in-selenium-test-automation-f8cce225bac5
+
+https://www.linkedin.com/pulse/oops-concepts-selenium-mastering-test-automation-sachin-ban-qqppf/
+
+https://www.linkedin.com/pulse/how-object-oriented-programming-works-test-automation-kushal-parikh-1ubxf/
+
+https://testingmag.in/oops-concepts-in-test-automation-2/
+
+https://japneetsachdeva.medium.com/how-object-oriented-programming-works-in-test-automation-frameworks-218620538245
+
+https://www.numpyninja.com/post/java-oops-concepts-implementation-of-oops-concept-in-selenium-framework-part-2
+
+
+
+
 
 
